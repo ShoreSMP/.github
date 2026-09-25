@@ -1,6 +1,6 @@
 # ShoreSMP
 
-ShoreSMP is owned and operated by **NotZorba, Nolan, and Parker**.
+ShoreSMP is owned and operated by **NotZorba**, **nolanykyk (Nolan)**, and **p9oz (Parker)**.
 
 **Server IP:** `shoresmp.net`
 
